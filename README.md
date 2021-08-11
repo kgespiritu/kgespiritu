@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @kgespiritu
+- 👀 I’m interested in food, travel, technology and music...
+- 🌱 I’m bringing back my knowledge in CSS3...
+- 📫 Reach me at kgervespiritu@gmail.com...
+
+<!---
+kgespiritu/kgespiritu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
